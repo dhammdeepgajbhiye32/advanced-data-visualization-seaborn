@@ -1,0 +1,58 @@
+# ==============================
+# Large / risky data files
+# ==============================
+
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# Models (usually large)
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Archives (usually large)
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Videos / heavy media
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ==============================
+# Environments
+# ==============================
+
+venv/
+env/
+
+# ==============================
+# OPTIONAL (commented out)
+# Uncomment only if needed
+# ==============================
+
+Hospital_Inpatient_Cost_Transparency__Beginning_2009_20240726*
+# *.csv
+# *.xlsx
+# *.json
+# *.png
+# *.jpg
