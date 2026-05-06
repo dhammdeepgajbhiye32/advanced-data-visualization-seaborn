@@ -17,7 +17,7 @@ Healthcare systems face challenges in managing:
 - Uneven distribution of patient load
 - Inefficient resource allocation
 
-This project investigates how **severity of illness, patient volume, and hospital characteristics** influence treatment costs and workload distribution.
+This project investigate how **severity of illness, patient volume, and hospital characteristics** influence treatment costs and workload distribution.
 
 ---
 
