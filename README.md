@@ -64,10 +64,10 @@ This project investigates how **severity of illness, patient volume, and hospita
 ## 📊 Key Metrics
 
 - Total Records: **1,081,672+**
-- Dataset Size: **150 MB**
-- Key Cost Driver: **Severity of Illness**
+- Average Covered Charges: **High variation across hospitals and procedures**
 - Highest Patient Volume: **Mount Sinai Hospital (511K+ discharges)**
-- Key Observation: **Significant gap between charges and actual cost**
+- Most Expensive cases: **Extreme Severity Conditions**
+- Key Observation: **Large gap between hospital charges and actual payments**
 
 ---
 
