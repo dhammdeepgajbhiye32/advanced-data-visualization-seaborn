@@ -1,6 +1,6 @@
 # 📊 Hospital Cost & Patient Resource Utilization Analysis – Seaborn
 
-## 📌 Project Overview
+## 📌 Project Summary
 
 This project analyzes **1.08M+ hospital discharge records** to uncover key drivers of **healthcare costs and hospital resource utilization**.
 
